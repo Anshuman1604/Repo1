@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9488-6ADD
+
+ Directory of C:\Users\ANSHUMAN SAMAL\Desktop\MyProject
+
+15-03-2019  02:05    <DIR>          .
+15-03-2019  02:05    <DIR>          ..
+15-03-2019  02:05                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  384,859,377,664 bytes free
